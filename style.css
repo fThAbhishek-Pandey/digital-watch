@@ -1,0 +1,22 @@
+body{
+    background-color: #212121;
+}
+.center{
+   
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content:center ;
+    align-items: center;
+    align-self: center;
+}
+#clock{
+   padding: 1rem;
+   font-size: x-large;
+    background-color: #2121ff;
+    color: #fff;
+}
+.banner{
+    color:#fff;
+   
+}
